@@ -17,7 +17,7 @@ I am an ambitious web developer with a passion for **React and C#**. I have expe
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://yazan.se" target="_blank">
+  <a href="https://www.yazan.se" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-yazan.se-ff69b4?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:yazan.garahbash@gmail.com">
