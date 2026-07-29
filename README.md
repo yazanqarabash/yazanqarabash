@@ -7,7 +7,7 @@
 
 I am an ambitious web developer with a passion for **React and C#**. I have experience working with modern technologies in both React and React Native, as well as back-end development.
 
-- 🎓 I’m currently studying **Computer Science** at **Jönköping University**.
+- 🎓 **Computer Science** graduate from **Jönköping University**.
 - 🌱 I’m currently working on expanding my knowledge in **Azure** and **.NET Core**.
 - 🏆 Certification: Microsoft Certified: Azure Fundamentals **(AZ-900)**.
 - 💬 Ask me about **React, TypeScript, and Azure Cloud**.
