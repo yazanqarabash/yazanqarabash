@@ -2,16 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=300&section=header&text=Yazan%20Qarabash&fontSize=70&fontColor=f4f4f5" width="100%"/>
 </div>
 
-### Hi there 👋, I'm Yazan!
-**Full-stack Developer | React & C# | Based in Sweden**
+### 👨‍💻 Hi, I'm Yazan!
+**AI-First Full-Stack Developer | .NET & React**
 
-I am an ambitious web developer with a passion for **React and C#**. I have experience working with modern technologies in both React and React Native, as well as back-end development.
+> "What if I told you that I consume knowledge like no one you've ever met and I've actually passed the bar?" - Mike Ross
 
-- 🎓 **Computer Science** graduate from **Jönköping University**.
-- 🌱 I’m currently working on expanding my knowledge in **Azure** and **.NET Core**.
-- 🏆 Certification: Microsoft Certified: Azure Fundamentals **(AZ-900)**.
-- 💬 Ask me about **React, TypeScript, and Azure Cloud**.
-- 🎲 Fun fact: When I'm not coding C#, you can likely find me **at the boardgames table**.
+I am a software developer focusing on building full-stack applications with AI capabilities.
+
+- 🎓 **Education:** Computer Science Alum • **Jönköping University**.
+- ☁️ **Certification:** Microsoft Certified: Azure Fundamentals **(AZ-900)**.
+- 🎯 **Current Focus:** Integrating AI with web applications.
+- 🎲 **Fun fact:** When the IDE closes, you will likely find me at the board games table. Or watching Suits. For the eighth time.
 
 ---
 
@@ -27,16 +28,3 @@ I am an ambitious web developer with a passion for **React and C#**. I have expe
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
